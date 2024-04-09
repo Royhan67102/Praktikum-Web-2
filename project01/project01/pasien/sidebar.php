@@ -14,7 +14,7 @@
                 <img src="../dist/img/avatar4.png" class="img-circle elevation-2" alt="User Image">
             </div>
             <div class="info">
-                <a href="#" class="d-block">Abdurrahman Ziyad</a>
+                <a href="#" class="d-block">Royhan Audy Akbar</a>
             </div>
         </div>
 
